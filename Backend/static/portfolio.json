@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "name": "Арканойд",
+      "description" : "Почувствуй себя гуру мяча",
+      "image": "image 1.png",
+      "link": "https://github.com/PARS303"
+    },
+    {
+      "name": "ТГ БОТ",
+      "description" : "ИЗУЧИ АНГЛИЙСКИЙ В СВОЁМ ТЕМПЕ",
+      "image": "Rectangle 5.png",
+      "link": "https://github.com/PARS303"
+    },
+    {
+      "name": "Одевалка",
+      "description" : "Одень куклу как тебе захочется",
+      "image": "Rectangle 9.png",
+      "link": "https://github.com/PARS303"
+    },
+    {
+      "name": "Обучение",
+      "description" : "Научи своего ребенка программированию",
+      "image": "Rectangle 8.png",
+      "link": "https://github.com/PARS303"
+    }
+  ]
+}
