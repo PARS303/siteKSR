@@ -1,4 +1,4 @@
-const serverHost = 'http://localhost:3000'
+const serverHost = 'https://site-backend-production-3991.up.railway.app'
 
 async function main(){
     setProjects((await getProjects()).projects);
